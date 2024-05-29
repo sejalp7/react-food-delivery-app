@@ -1,0 +1,26 @@
+{
+  "name": "react-ott-app",
+  "version": "1.0.0",
+  "description": "OTT app in react",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sejalp7/react-ott-app.git"
+  },
+  "author": "Sejal Pande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sejalp7/react-ott-app/issues"
+  },
+  "homepage": "https://github.com/sejalp7/react-ott-app#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
